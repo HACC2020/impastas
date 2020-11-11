@@ -7,3 +7,5 @@ Challenge: COVID-19 Chat Bot
 - `cd ui`
 - `npm start`
 - access app at http://localhost:3000/
+
+The MedBae bot is hosted at this address: https://med-bae.vercel.app/
