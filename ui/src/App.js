@@ -6,7 +6,7 @@ function App() {
   const [toggleView, setToggleView] = useState(false);
   return (
     <div className="App flex" id = "mainDiv" style={{height:"100%", width:"100%", marginLeft:'auto', marginRight:'auto'}}>
-    <button type="button" onClick={()=>setToggleView(!toggleView)} class="btn btn-info">Click me to Change</button>
+    <button type="button" onClick={()=>setToggleView(!toggleView)} class="btn btn-info">Click me to change view</button>
 
    {
      toggleView
