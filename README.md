@@ -2,7 +2,7 @@
 
 ## Challenge: COVID-19 Chat Bot
 
-# The MedBae bot is hosted at this address: https://med-bae.vercel.app/
+## The MedBae bot is hosted at this address: https://med-bae.vercel.app/
 
 ## How to Start this project:
 - install node version > 10
